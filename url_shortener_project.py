@@ -5,7 +5,7 @@ import tkinter as tk
 root = tk.Tk()
 root.geometry("450x250")
 root.title("URL Shortener")
-root.configure(bg="#798D97")
+root.configure(bg="#2c3e50")
 
 url = tk.StringVar()
 url_address = tk.StringVar()
